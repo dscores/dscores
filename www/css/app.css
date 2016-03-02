@@ -1,0 +1,39 @@
+body {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.marketing {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+.marketing h2 {
+  font-size: 18px;
+}
+
+@media (min-width: 768px) {
+  .container {
+    max-width: 730px;
+  }
+}
+
+.jumbotron {
+  text-align: center;
+  border: 1px solid #E7E7E7;
+  background-color: #F8F8F8;
+}
+.jumbotron h1 {
+  font-size: 30px;
+}
+
+.marketing {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+@media screen and (min-width: 768px) {
+  .marketing {
+    padding-right: 0;
+    padding-left: 0;
+  }
+}

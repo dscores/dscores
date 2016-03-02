@@ -1,0 +1,20 @@
+{
+  "name": "dscores",
+  "description": "",
+  "version": "1.0.0",
+  "homepage": "http://github.com/dscores/dscores",
+  "private": true,
+  "readmeFilename": "README.md",
+  "scripts": {
+    "postinstall": "bower i",
+    "start": "dwebserver"
+  },
+  "dependencies": {
+    "dwebserver": "^2.0.0",
+    "bower": "^1.7.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dscores/dscores.git"
+  }
+}
