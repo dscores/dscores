@@ -10,8 +10,8 @@
     "start": "dwebserver"
   },
   "dependencies": {
-    "dwebserver": "^2.0.0",
-    "bower": "^1.7.2"
+    "bower": "^1.7.2",
+    "dwebserver": "^2.0.0"
   },
   "repository": {
     "type": "git",
