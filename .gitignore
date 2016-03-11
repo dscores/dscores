@@ -1,4 +1,6 @@
 /node_modules
 /npm-debug.log*
 
+/www/img/apple-touch-icon
 /www/vendor
+/www/favicon.ico

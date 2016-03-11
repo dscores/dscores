@@ -6,12 +6,17 @@
   "private": true,
   "readmeFilename": "README.md",
   "scripts": {
-    "postinstall": "bower i",
+    "postinstall": "npm-run-all --parallel postinstall:*",
+    "postinstall:bower": "bower i",
+    "postinstall:dlogos": "dlogos",
     "start": "dwebserver"
   },
   "dependencies": {
     "bower": "^1.7.2",
-    "dwebserver": "^2.0.0"
+    "dlogos": "^1.0.0",
+    "dwebserver": "^2.0.0",
+    "logo": "dragonprojects/logo",
+    "npm-run-all": "^1.5.1"
   },
   "repository": {
     "type": "git",
