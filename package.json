@@ -14,8 +14,8 @@
   "dependencies": {
     "bower": "^1.7.2",
     "dlogos": "^1.0.0",
+    "dragonprojects-logo": "^1.0.0",
     "dwebserver": "^2.0.0",
-    "logo": "dragonprojects/logo",
     "npm-run-all": "^1.5.1"
   },
   "repository": {
