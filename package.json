@@ -9,11 +9,13 @@
     "postinstall": "npm-run-all --parallel postinstall:*",
     "postinstall:bower": "bower i",
     "postinstall:dlogos": "dlogos",
+    "postinstall:dqrcodes": "dqrcodes",
     "start": "dwebserver"
   },
   "dependencies": {
     "bower": "^1.7.2",
     "dlogos": "^1.1.0",
+    "dqrcodes": "^1.0.0",
     "dragonprojects-logo": "^1.0.0",
     "dwebserver": "^2.0.0",
     "npm-run-all": "^1.5.1"
