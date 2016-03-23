@@ -9,5 +9,12 @@
       { "path": "img/apple-touch-icon/iphone-retina-120x120.png", "width": 120 },
       { "path": "favicon.ico", "width": 32 }
     ]
+  },
+  {
+    "source": "res/dqwixx/qwixx.jpg",
+    "path": "www",
+    "destinations": [
+      { "path": "img/dqwixx/qwixx.jpg", "width": 600, "height": 418 }
+    ]
   }
 ]
