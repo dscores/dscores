@@ -6,7 +6,7 @@
   "private": true,
   "readmeFilename": "README.md",
   "scripts": {
-    "postinstall": "npm-run-all --parallel postinstall:*",
+    "postinstall": "run-p postinstall:*",
     "postinstall:bower": "bower i",
     "postinstall:dlogos": "dlogos",
     "postinstall:dqrcodes": "dqrcodes",
@@ -18,7 +18,7 @@
     "dqrcodes": "^1.1.0",
     "dragonprojects-logo": "^1.0.0",
     "dwebserver": "^2.0.0",
-    "npm-run-all": "^1.5.1"
+    "npm-run-all": "^2.1.1"
   },
   "repository": {
     "type": "git",
