@@ -11,6 +11,13 @@
     ]
   },
   {
+    "source": "res/dcatan/catan.png",
+    "path": "www",
+    "destinations": [
+      { "path": "img/dcatan/catan.jpg", "width": 129, "height": 200 }
+    ]
+  },
+  {
     "source": "res/dqwixx/qwixx.jpg",
     "path": "www",
     "destinations": [
