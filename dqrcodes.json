@@ -1,5 +1,13 @@
 [
   {
+    "path": "www/img/dcatan/apps-qrcode.png",
+    "url": ""
+  },
+  {
+    "path": "www/img/dcatan/qrcode.png",
+    "url": "http://dcatan.dscores.de"
+  },
+  {
     "path": "www/img/dqwixx/apps-qrcode.png",
     "url": "http://build.phonegap.com/apps/1944299/install"
   },
