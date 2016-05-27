@@ -14,7 +14,7 @@
     "source": "res/dqwixx/qwixx.jpg",
     "path": "www",
     "destinations": [
-      { "path": "img/dqwixx/qwixx.jpg", "width": 600, "height": 418 }
+      { "path": "img/dqwixx/qwixx.jpg", "width": 152, "height": 200 }
     ]
   }
 ]
