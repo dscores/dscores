@@ -1,9 +1,6 @@
 /node_modules
 /npm-debug.log*
 
-/www/img/apple-touch-icon
-/www/img/dqwixx/apps-qrcode.png
-/www/img/dqwixx/qwixx.jpg
-/www/img/dqwixx/qrcode.png
+/www/img
 /www/vendor
 /www/favicon.ico
